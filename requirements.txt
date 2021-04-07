@@ -1,11 +1,11 @@
-numpy
+numpy==2.19.2
 scipy
 Pillow
 cython
 matplotlib
 scikit-image
-tensorflow>=2.0.0
+tensorflow>=2.4.0
 opencv-python
-h5py
+h5py==2.10
 imgaug
 IPython[all]
